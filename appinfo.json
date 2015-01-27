@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bwsummer@andrew.cmu.edu",
+    "longName": "BryceWatch",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "BryceWatch",
+    "uuid": "0db878cc-f456-4d54-b0f5-51c40fbe27eb",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
